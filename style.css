@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(108, 247, 228);
+}
+
+
+.banner {
+    color: rgb(61, 87, 72);
+    text-align: center;
+    font-size: 100px;
+    opacity: .75;
+    background-color: brown;
+    padding: 100px 0;
+    
+}
+
+p {
+    font-size: 50px;
+}
+
+#mountain-bike {
+    max-width: 50%;
+    height: auto;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: indigo;
+    text-align: center;
+}
+
+#important-person{
+    max-height: 50%;
+}
+
+#mtb{
+    color: darkblue;
+    font-size: 100px;
+}
+
+.bold{
+    font-weight: bold;
+}
